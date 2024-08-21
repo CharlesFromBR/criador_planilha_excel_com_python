@@ -19,7 +19,7 @@ frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
 frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
 frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
 frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
-frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
+frutas_page.append(['Histoco','exemplo@gmail.com', 'nome completo'])
 frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
 frutas_page.append(['Historico','exemplo@gmail.com', 'nome completo'])
 
